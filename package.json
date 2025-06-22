@@ -4,7 +4,7 @@
   "main": "wakeup_web.js",
   "packageManager": "npm@9.8.0",
   "scripts": {
-    "start": "node server.js"
+    "start": "wakeup_web.js"
   },
   "dependencies": {
     "express": "^4.18.2",
